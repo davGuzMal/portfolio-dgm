@@ -7,6 +7,7 @@ module.exports = {
   theme: {
     fontFamily: {
       Rubik: ["Rubik", "sans-serif"],
+      Quicksand : ["Quicksand"]
     },
     screens: {
       sm: "640px",
@@ -22,7 +23,8 @@ module.exports = {
         cadetblue : "#7CB4B8",
         portgrey: "#39393A",
         portrose: "#AA6373",
-        portcream: "#C1B098"
+        portcream: "#C1B098",
+        portpwgreen: '#58C184'
       },
       backgroundImage: {
         electricity: "url('/img/bg_electricity.png')",        
