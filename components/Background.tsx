@@ -18,7 +18,7 @@ const Background : NextComponentType = () => {
                         <span className="text-pwgreen-500 font-normal">
                             developing and building amazing websites which make
                         </span>{' '}
-                        people's life easier
+                         life easier
                     </h1>
                     <Button
                     name = 'See my work ➜'
