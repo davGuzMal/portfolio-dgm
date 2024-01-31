@@ -18,6 +18,10 @@ const Projects: NextPage = () => {
             name = 'Pawsitive'
             link = 'https://pawsitive-app.vercel.app/'
           />
+          <ProjectButton
+            name = 'Resonance'
+            link = 'https://resonance-one.vercel.app/'
+          />
           {/* <ProjectButton
             name = 'Pokemon API'
             link = 'https://pawsitive-app.vercel.app/'            
