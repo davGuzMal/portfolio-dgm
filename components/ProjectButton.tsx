@@ -28,6 +28,14 @@ const ProjectButton  = ({name, link} : Props) => {
                     ? <SiPokemon
                             className='w-[100px] h-[70px]'
                         />
+                    :name==='Resonance'
+                    ?   (<Image
+                        src='/img/logoResonance.png'
+                        alt="not found"
+                        width={40}
+                        height={40}
+                        className='flex justify-center text-center'
+                        />)
                     : null
                     }
                 </button>
